@@ -10,3 +10,15 @@ markdown
 - **Sentiment Detection: ** Gauges user frustration levels to prioritize high-risk contacts.
 - **Actionable item Extraction: ** Generates internal technical steps for resolution.
 - **Smart Response Generation: ** Formulates clear, professional draft replies ready for agent approval.
+
+## Tech Stack
+- **Language: ** Python 3.10+
+- **Frontend/UI: ** Streamlit
+- **LLM Integration: ** OpenAI API ('gpt-4o-mini' / 'gpt-4o')
+- **Data Structuring: ** JSON Schema Parsing
+
+## Setup Instructions
+1. **Clone the repository:**
+   '''bash
+   git clone [https://hithub.com/YOUR_GITHUB_USERNAME/opspulse-ai.git)
+   cd opspulse-ai
